@@ -2,8 +2,8 @@
 
 [![Build Status](http://jenkins.tdrhq.com/buildStatus/icon?job=screenshotbot-oss)](http://jenkins.tdrhq.com/job/screenshotbot-oss/)
 
-Screenshotbot is a Screenshot Testing service. Screenshotbot will
-connect your existing Android, iOS or Selenium tests to track how
+Screenshotbot is a Open-source Visual Testing platform. Screenshotbot can
+connect with your existing Android, iOS or Selenium tests to track how
 screenshots change over time, notifying you on Pull Requests, Jira
 etc. We provide several integrations to common Code Review and Task
 Management platforms, and have more in the pipeline.
